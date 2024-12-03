@@ -1,0 +1,2 @@
+# Collaborative-filtering-movie-recommendation-system
+基于Spring Boot和Vue的协同过滤电影推荐系统是一种智能推荐平台，通过分析用户的观影历史和喜好来提供个性化的电影推荐。Spring Boot作为后端框架，处理数据存储、用户行为分析和推荐算法；Vue.js则负责构建动态前端界面，提供友好的用户交互体验。该系统能够实时更新推荐结果，帮助用户发现新电影，提升观影体验，同时为平台增加用户粘性与活跃度。
